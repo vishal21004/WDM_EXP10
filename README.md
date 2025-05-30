@@ -1,5 +1,6 @@
-### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 20/05/2025
+## EX10 Sentimental Analysis on Any Dataset Using Rapidminer
+## NAME : VISHAL M.A
+## REG NO : 212222230177
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
